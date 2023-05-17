@@ -1,5 +1,5 @@
 # 0x02-shell_redirections
-## This file includes all solutions to I/O redirection project tasks.
+## This directory includes all solutions to I/O redirection project tasks.
 
 ### Mandatory tasks
 
